@@ -1,2 +1,3 @@
 # qcr_Rx1
-first
+My first repository on Github!
+I love :tea:, and :student:.
